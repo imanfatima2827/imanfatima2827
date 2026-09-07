@@ -223,7 +223,7 @@ An operating system simulation project demonstrating fundamental operating syste
 
 #  Education
 
-### University of Engineering and Technology — New Campus Lahore
+### University of Engineering and Technology — Lahore
 
 **BS Software Engineering**
 
