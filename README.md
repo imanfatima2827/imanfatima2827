@@ -209,7 +209,7 @@ An operating system simulation project demonstrating fundamental operating syste
 
 ## Mobile Application Developer — ProgramGrab Ltd
 
-**June 2025 – Present**
+**June 2025 – August 2026**
 
 - Developed and maintained production-level cross-platform mobile applications using Flutter and Dart.
 - Built responsive and scalable mobile interfaces.
