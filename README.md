@@ -2,9 +2,9 @@
 
 ### Mobile App Developer | Flutter Developer
 
-I'm a Software Engineering graduate from the **University of Engineering and Technology (UET), Lahore**, passionate about building beautiful, high-performance and scalable mobile applications.
+I'm a Software Engineering graduate from the University of Engineering and Technology (UET), Lahore, passionate about building beautiful, high-performance and scalable mobile applications.
 
-Currently, I'm working as a **Mobile Application Developer**, specializing in Flutter, Dart, API integration, Firebase, Supabase and responsive mobile UI development.
+I have professional experience as a Mobile Application Developer, specializing in Flutter, Dart, API integration, Firebase, Supabase, and responsive mobile UI development.
 
 ---
 
