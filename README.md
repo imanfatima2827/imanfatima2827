@@ -283,7 +283,7 @@ AI / ML               → Python • YOLOv8 • NLP
 
 # Connect With Me
 
-* **LinkedIn:** [Iman Fatima](https://www.linkedin.com/in/iman-fatima-1009ba25/)
+* **LinkedIn:** [Iman Fatima](https://www.linkedin.com/in/iman-fatima-1009ba25a/)
 * **Email:** [imanfatima2827@gmail.com](mailto:imanfatima2827@gmail.com)
 
 ---
